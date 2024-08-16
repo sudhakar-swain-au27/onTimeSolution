@@ -3,7 +3,7 @@ import logo from "../assets/logo.png";
 
 const Contact = () => {
   return (
-    <section className="bg-gray-50 text-gray-50 py-12">
+    <section className=" text-gray-50 py-12">
       <div className="container mx-auto px-4">
         <div className="text-center mb-8">
           <img src={logo} alt="YourLogo" className="h-16 w-auto mx-auto mb-4" />
@@ -31,13 +31,13 @@ const Contact = () => {
             />
             <button
               type="submit"
-              className="w-full py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-300 focus:outline-none focus:ring-2 focus:ring-blue-300"
             >
               Send Message
             </button>
           </form>
         </div>
-      </div>    
+      </div>        
     </section>
   );
 };

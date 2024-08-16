@@ -1,4 +1,19 @@
-// servicesData.js
+import jobposting from '../assets/posting.webp';
+import applicationtracking from '../assets/tracking.webp';
+import resumeParsing from '../assets/parsing.webp';
+import interviewScheduling from '../assets/scheduling.webp'
+import employeeManagement from '../assets/emplyee-managment.webp';
+import payrollManagement from '../assets/payroll-managment.webp';
+
+import liveChat from '../assets/livechat.webp';
+import feedbackManagement from '../assets/feedback-managment.webp';
+import campaignManagement from '../assets/campaign.webp';
+import addManagement from '../assets/ad-managment.webp';
+import customDevelopment from '../assets/development.webp';
+import itSupport from '../assets/IT-Support.webp'
+
+
+
 
 const services = [
     {
@@ -7,22 +22,22 @@ const services = [
         {
           title: 'Job Posting',
           description: 'Allow companies to post job openings.',
-          imgSrc: 'path/to/job-posting-image.png', // Replace with your image path
+          imgSrc: jobposting, 
         },
         {
           title: 'Applicant Tracking',
           description: 'Track and manage job applications.',
-          imgSrc: 'path/to/applicant-tracking-image.png', // Replace with your image path
+          imgSrc: applicationtracking,
         },
         {
           title: 'Resume Parsing',
           description: 'Extract data from resumes for easy management.',
-          imgSrc: 'path/to/resume-parsing-image.png', // Replace with your image path
+          imgSrc: resumeParsing,
         },
         {
           title: 'Interview Scheduling',
           description: 'Tools for scheduling and managing interviews.',
-          imgSrc: 'path/to/interview-scheduling-image.png', // Replace with your image path
+          imgSrc: interviewScheduling,
         },
       ],
     },
@@ -32,12 +47,12 @@ const services = [
         {
           title: 'Employee Management',
           description: 'Manage employee records and profiles.',
-          imgSrc: 'path/to/employee-management-image.png', // Replace with your image path
+          imgSrc: employeeManagement, // Replace with your image path
         },
         {
           title: 'Payroll Management',
           description: 'Handle payroll calculations and disbursements.',
-          imgSrc: 'path/to/payroll-management-image.png', // Replace with your image path
+          imgSrc: payrollManagement, // Replace with your image path
         },
         {
           title: 'Leave Management',
@@ -92,12 +107,12 @@ const services = [
         {
           title: 'Live Chat',
           description: 'Offer real-time support via chat.',
-          imgSrc: 'path/to/live-chat-image.png', // Replace with your image path
+          imgSrc: liveChat, // Replace with your image path
         },
         {
           title: 'Feedback Management',
           description: 'Collect and analyze customer feedback.',
-          imgSrc: 'path/to/feedback-management-image.png', // Replace with your image path
+          imgSrc: feedbackManagement, // Replace with your image path
         },
       ],
     },
@@ -107,7 +122,7 @@ const services = [
         {
           title: 'Campaign Management',
           description: 'Create and manage social media campaigns.',
-          imgSrc: 'path/to/campaign-management-image.png', // Replace with your image path
+          imgSrc: campaignManagement, // Replace with your image path
         },
         {
           title: 'Content Scheduling',
@@ -122,7 +137,7 @@ const services = [
         {
           title: 'Ad Management',
           description: 'Create and manage paid advertisements.',
-          imgSrc: 'path/to/ad-management-image.png', // Replace with your image path
+          imgSrc: addManagement, // Replace with your image path
         },
       ],
     },
@@ -132,12 +147,12 @@ const services = [
         {
           title: 'Custom Development',
           description: 'Offer custom software development services.',
-          imgSrc: 'path/to/custom-development-image.png', // Replace with your image path
+          imgSrc: customDevelopment, // Replace with your image path
         },
         {
           title: 'IT Support',
           description: 'Provide technical support and troubleshooting.',
-          imgSrc: 'path/to/it-support-image.png', // Replace with your image path
+          imgSrc: itSupport, // Replace with your image path
         },
         {
           title: 'Infrastructure Management',

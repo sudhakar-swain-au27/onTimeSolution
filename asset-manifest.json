@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/onTimeSolution/static/css/main.daf9c967.css",
-    "main.js": "/onTimeSolution/static/js/main.727403a3.js",
+    "main.css": "/onTimeSolution/static/css/main.0245e3b4.css",
+    "main.js": "/onTimeSolution/static/js/main.070a607b.js",
     "static/js/453.5e5acda0.chunk.js": "/onTimeSolution/static/js/453.5e5acda0.chunk.js",
+    "static/media/logo.png": "/onTimeSolution/static/media/logo.a24e52e153267cc22781.png",
     "index.html": "/onTimeSolution/index.html",
-    "main.daf9c967.css.map": "/onTimeSolution/static/css/main.daf9c967.css.map",
-    "main.727403a3.js.map": "/onTimeSolution/static/js/main.727403a3.js.map",
+    "main.0245e3b4.css.map": "/onTimeSolution/static/css/main.0245e3b4.css.map",
+    "main.070a607b.js.map": "/onTimeSolution/static/js/main.070a607b.js.map",
     "453.5e5acda0.chunk.js.map": "/onTimeSolution/static/js/453.5e5acda0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.daf9c967.css",
-    "static/js/main.727403a3.js"
+    "static/css/main.0245e3b4.css",
+    "static/js/main.070a607b.js"
   ]
 }

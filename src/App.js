@@ -11,7 +11,9 @@ import About from './pages/About';
 import Login from './pages/Login';
 import SignUp from './pages/SignUp';
 import Dashboard from './pages/Dashboard';
-import Footer from './pages/Footer'
+import Footer from './pages/Footer';
+import Portfolio from './pages/Portfolio';
+import ExperienceChart from './pages/ExperienceChart';
 
 function App() {
   return (
@@ -26,7 +28,11 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/login" element={<Login />} /> 
             <Route path="/signup" element={<SignUp />} /> 
-            <Route path="/dashboard" element={<Dashboard />} /> 
+            <Route path="/dashboard" element={<Dashboard />} />
+            <Route path="/portfolio" element={<Portfolio />} />
+            
+            
+
           </Routes>
         </main>
         <Footer />

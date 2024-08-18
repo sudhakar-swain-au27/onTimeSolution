@@ -19,6 +19,8 @@ const Navbar = () => {
         <Link to="/contact" className="hover:text-rose-700">Contact</Link>
         <Link to="/about" className="hover:text-rose-700">About</Link>
         <Link to="/login" className="hover:text-rose-700">Log In</Link>
+        <Link to="/portfolio" className="hover:text-rose-700">Hire Me</Link>
+      
       </nav>
     </header>
   );

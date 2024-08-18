@@ -1,28 +1,36 @@
 {
   "files": {
     "main.css": "/onTimeSolution/static/css/main.4c5ffac6.css",
-    "main.js": "/onTimeSolution/static/js/main.3791d927.js",
+    "main.js": "/onTimeSolution/static/js/main.3628a8a4.js",
     "static/js/453.5e5acda0.chunk.js": "/onTimeSolution/static/js/453.5e5acda0.chunk.js",
+    "static/media/performanceReviews.webp": "/onTimeSolution/static/media/performanceReviews.17b1b785da8ff912e80b.webp",
+    "static/media/leaveManagement.webp": "/onTimeSolution/static/media/leaveManagement.5e1048193d6f59cb456d.webp",
+    "static/media/contentScheduling.webp": "/onTimeSolution/static/media/contentScheduling.95fe759cc2e82c934c6d.webp",
     "static/media/development.webp": "/onTimeSolution/static/media/development.42c07f699f8379abf1f0.webp",
+    "static/media/cyberSecurity.webp": "/onTimeSolution/static/media/cyberSecurity.e4a67b3b45150bcd70b2.webp",
     "static/media/scheduling.webp": "/onTimeSolution/static/media/scheduling.53d2c481fd4fc17f95dc.webp",
+    "static/media/infra.webp": "/onTimeSolution/static/media/infra.c11db3778479095af538.webp",
+    "static/media/analytics.webp": "/onTimeSolution/static/media/analytics.a7bda78fa038ca15f71d.webp",
     "static/media/ad-managment.webp": "/onTimeSolution/static/media/ad-managment.7399beea0d2343205ab5.webp",
     "static/media/campaign.webp": "/onTimeSolution/static/media/campaign.3bb970143d2efa979789.webp",
     "static/media/parsing.webp": "/onTimeSolution/static/media/parsing.87aa8bf4c7fd6cc23f31.webp",
     "static/media/IT-Support.webp": "/onTimeSolution/static/media/IT-Support.41483197d6afc548edef.webp",
+    "static/media/ticketingSystem.webp": "/onTimeSolution/static/media/ticketingSystem.3832828b683ecb2bf7e0.webp",
     "static/media/payroll-managment.webp": "/onTimeSolution/static/media/payroll-managment.c3e221757265c7052c31.webp",
     "static/media/emplyee-managment.webp": "/onTimeSolution/static/media/emplyee-managment.8ceadb9fa32c7f0c88d0.webp",
     "static/media/feedback-managment.webp": "/onTimeSolution/static/media/feedback-managment.f57fb6dd6078e96da58e.webp",
+    "static/media/knowledgeBase.webp": "/onTimeSolution/static/media/knowledgeBase.5e82de2b57daa737c953.webp",
     "static/media/livechat.webp": "/onTimeSolution/static/media/livechat.c866fe3b44600798f30c.webp",
     "static/media/tracking.webp": "/onTimeSolution/static/media/tracking.657a8bea6c1ffc351376.webp",
     "static/media/posting.webp": "/onTimeSolution/static/media/posting.cb6375fc6bea4f38f38a.webp",
     "static/media/logo.png": "/onTimeSolution/static/media/logo.a24e52e153267cc22781.png",
     "index.html": "/onTimeSolution/index.html",
     "main.4c5ffac6.css.map": "/onTimeSolution/static/css/main.4c5ffac6.css.map",
-    "main.3791d927.js.map": "/onTimeSolution/static/js/main.3791d927.js.map",
+    "main.3628a8a4.js.map": "/onTimeSolution/static/js/main.3628a8a4.js.map",
     "453.5e5acda0.chunk.js.map": "/onTimeSolution/static/js/453.5e5acda0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c5ffac6.css",
-    "static/js/main.3791d927.js"
+    "static/js/main.3628a8a4.js"
   ]
 }

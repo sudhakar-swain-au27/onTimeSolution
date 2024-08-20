@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/onTimeSolution/static/css/main.46b470a5.css",
-    "main.js": "/onTimeSolution/static/js/main.39910986.js",
+    "main.css": "/onTimeSolution/static/css/main.a684774f.css",
+    "main.js": "/onTimeSolution/static/js/main.c58b6bd4.js",
     "static/media/performanceReviews.webp": "/onTimeSolution/static/media/performanceReviews.17b1b785da8ff912e80b.webp",
     "static/media/leaveManagement.webp": "/onTimeSolution/static/media/leaveManagement.5e1048193d6f59cb456d.webp",
     "static/media/contentScheduling.webp": "/onTimeSolution/static/media/contentScheduling.95fe759cc2e82c934c6d.webp",
@@ -28,11 +28,11 @@
     "static/media/about.svg": "/onTimeSolution/static/media/about.327982bf5a9e558c4eeff32de6bd0d9e.svg",
     "static/media/hero.svg": "/onTimeSolution/static/media/hero.79b2edde0fb9c34ab5988be45b327753.svg",
     "index.html": "/onTimeSolution/index.html",
-    "main.46b470a5.css.map": "/onTimeSolution/static/css/main.46b470a5.css.map",
-    "main.39910986.js.map": "/onTimeSolution/static/js/main.39910986.js.map"
+    "main.a684774f.css.map": "/onTimeSolution/static/css/main.a684774f.css.map",
+    "main.c58b6bd4.js.map": "/onTimeSolution/static/js/main.c58b6bd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.46b470a5.css",
-    "static/js/main.39910986.js"
+    "static/css/main.a684774f.css",
+    "static/js/main.c58b6bd4.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/onTimeSolution/static/css/main.b2b86001.css",
-    "main.js": "/onTimeSolution/static/js/main.4a817006.js",
+    "main.css": "/onTimeSolution/static/css/main.dc065769.css",
+    "main.js": "/onTimeSolution/static/js/main.f169944b.js",
     "static/media/newsbean.png": "/onTimeSolution/static/media/newsbean.585fe768e802a1e6a67d.png",
     "static/media/xinthesys.png": "/onTimeSolution/static/media/xinthesys.a6c89f3d2f3adcc26544.png",
     "static/media/hims.png": "/onTimeSolution/static/media/hims.400aea779c7ddde1d5ea.png",
@@ -17,11 +17,11 @@
     "static/media/slick.ttf": "/onTimeSolution/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/onTimeSolution/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/onTimeSolution/index.html",
-    "main.b2b86001.css.map": "/onTimeSolution/static/css/main.b2b86001.css.map",
-    "main.4a817006.js.map": "/onTimeSolution/static/js/main.4a817006.js.map"
+    "main.dc065769.css.map": "/onTimeSolution/static/css/main.dc065769.css.map",
+    "main.f169944b.js.map": "/onTimeSolution/static/js/main.f169944b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2b86001.css",
-    "static/js/main.4a817006.js"
+    "static/css/main.dc065769.css",
+    "static/js/main.f169944b.js"
   ]
 }

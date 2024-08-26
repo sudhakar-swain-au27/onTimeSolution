@@ -26,7 +26,7 @@ const Header = () => {
 
       <button
         onClick={() => setIsModalOpen(true)}
-        className="bg-orange-500 text-white py-2 px-4 rounded-lg hover:bg-orange-600 transition duration-300"
+        className=" bg-gradient-to-r bg-orange-500 text-white py-2 px-4 rounded-lg hover:from-blue-500 hover:to-teal-500 transition duration-300"
       >
         Hire Me
       </button>
